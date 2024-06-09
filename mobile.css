@@ -1,0 +1,77 @@
+
+
+      
+       @media screen and ( max-width: 768px ){
+
+        /* navbar section start hare */
+        .nav-container{
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          gap: 30px;
+        }
+        
+        .main-header{
+          text-align: cente;
+          font-size: 40px;
+        }
+        .banner-profile-container{
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+          order: 1;
+        }
+        .banner-profile-desc{
+          justify-content: center;
+          align-items: center;
+          order: 2;
+        }
+
+        .work-datails-container{
+          flex-direction: column;
+          justify-content: center;
+          
+        }
+      
+
+        /* navbar section ends hare */
+        /* project section start hare */
+       
+
+
+
+        /* project section ends hare */
+        /* testmornial section start hare */
+        
+
+         
+        
+        
+        
+
+          /* testmornial section ends hare */
+          /* footer section strt hare */
+          #footer-container{
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+          }
+          .left-section{
+            width: 100%;
+    
+          }
+          .right-section{
+            width: 100%;
+          }
+
+          
+
+
+
+
+
+
+          /* footer section ends hare */
+        
+       }
+   
